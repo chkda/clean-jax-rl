@@ -1,6 +1,6 @@
 import jax.numpy as jnp
 from typing import NamedTuple
-from abc import ABC, absstractmethod
+from abc import ABC, abstractmethod
 
 
 # The below implementation is taken in reference to this https://github.com/hamishs/JAX-RL/
