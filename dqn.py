@@ -10,6 +10,7 @@ import gymnax
 import distrax
 
 import wandb
+from utils.buffer import ExperienceReplay
 
 
 class QNetwork(nn.Module):
